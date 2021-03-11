@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Figment**! I'm a 15-year old, ✨ _very cool (i swear)_ ✨ programmer! 
+I'm **Figment**! I'm a 16-year old programmer :D
 
 - 🔭 I’m currently working on game modding
 - 🌱 I’m currently learning how to reverse engineer
