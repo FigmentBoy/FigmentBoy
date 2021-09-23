@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm **Figment**! I'm a 16-year old programmer :D
+I'm **Figment**! I'm a 16-year old programmer and the developer of zBot :D
 
 - 🔭 I’m currently working on game modding
 - 🌱 I’m currently learning how to reverse engineer
 - 💬 Ask me about video games
-- 📫 How to reach me: Figment#0001 on discord
+- 📫 How to reach me: discord.gg/fig
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the trombone :D
 
