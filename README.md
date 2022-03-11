@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Figment**! I'm a 16-year old programmer and the developer of zBot :D
+I'm **Figment**! I'm a 17-year old programmer and the developer of zBot :D
 
 - 🔭 I’m currently working on game modding
 - 📫 How to reach me: discord.gg/fig
