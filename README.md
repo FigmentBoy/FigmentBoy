@@ -10,9 +10,9 @@ Hey! I'm **fig** (he/him). I'm a 19-year old programmer, and I'm currently study
 
 ## Contact Me
 <a href="https://discord.gg/pPSAU6Ugka">
-<img alt="Discord Button" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white&logoSize=auto&labelColor=5865F2&color=5865F2&link=https%3A%2F%2Fdiscord.gg%2FpPSAU6Ugka">
+<img alt="Discord Button" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto&labelColor=5865F2&color=5865F2&link=https%3A%2F%2Fdiscord.gg%2FpPSAU6Ugka">
 </a>
 
 <a href="mailto:figmentcoding@gmail.com">
-<img alt="Email Button" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=EA4335&color=EA4335&link=mailto%3Afigmentcoding%40gmail.com">
+<img alt="Email Button" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=EA4335&color=EA4335&link=mailto%3Afigmentcoding%40gmail.com">
 </a>
