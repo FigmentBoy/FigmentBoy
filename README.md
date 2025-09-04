@@ -1,5 +1,5 @@
 # ![fig's logo](https://github.com/figmentboy.png?size=32) fig
-Hey! I'm **fig** (he/him). I'm a 19-year old programmer, and I'm currently studying Computer Science at [Purdue University](https://purdue.edu/) in West Lafayette, Indiana.
+Hey! I'm **fig** (he/him). I'm a 20-year old programmer, and I'm currently studying Computer Science at [Purdue University](https://purdue.edu/) in West Lafayette, Indiana.
 
 ## About Me
 - While I specialize in C and C++, I've been coding for most of my life and can write in most popular languages.
